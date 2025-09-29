@@ -1,0 +1,15 @@
+# Meme Token Contract
+
+A simple ERC20 smart contract built for learning purposes.  
+Written in Solidity and tested with Hardhat.
+
+## Quickstart
+```bash
+git clone https://github.com/dimadimalg-art/meme-token-contract.git
+cd meme-token-contract
+npm install
+npx hardhat test
+Features
+	•	ERC20 standard implementation
+	•	Basic mint function
+	•	Hardhat tests included
